@@ -1,0 +1,8 @@
+C:\Users\jens\source\repos\tidslinje\tidslinje\bin\Debug\tidslinje.exe
+C:\Users\jens\source\repos\tidslinje\tidslinje\bin\Debug\tidslinje.pdb
+C:\Users\jens\source\repos\tidslinje\tidslinje\obj\Debug\tidslinje.csprojResolveAssemblyReference.cache
+C:\Users\jens\source\repos\tidslinje\tidslinje\obj\Debug\tidslinje.MainForm.resources
+C:\Users\jens\source\repos\tidslinje\tidslinje\obj\Debug\tidslinje.csproj.GenerateResource.Cache
+C:\Users\jens\source\repos\tidslinje\tidslinje\obj\Debug\tidslinje.csproj.CoreCompileInputs.cache
+C:\Users\jens\source\repos\tidslinje\tidslinje\obj\Debug\tidslinje.exe
+C:\Users\jens\source\repos\tidslinje\tidslinje\obj\Debug\tidslinje.pdb
